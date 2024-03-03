@@ -1,0 +1,17 @@
+{
+	"ulid": "01HR0WMPZVA6838WFCJWJ61T2A",
+	"minTime": 1709272807792,
+	"maxTime": 1709280000000,
+	"stats": {
+		"numSamples": 1673,
+		"numSeries": 7,
+		"numChunks": 15
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HR0WMPZVA6838WFCJWJ61T2A"
+		]
+	},
+	"version": 1
+}
