@@ -1,7 +1,7 @@
 # Flask-Microservice-for-Monitoring
 
-A basic microservice developed using Flask web framework that does basic summation of two values created mainly to monitor the HTTP request frequency and availability of the service runtime by different monitoring tools like Prometheus, Grafana.
-The main objective was to gather data about the overheads of different monitoring tools while monitoring a basic microservice.
+A basic microservice developed using Python Flask web framework that does basic summation of two values created mainly to monitor the HTTP request frequency and availability of the service runtime by different monitoring tools like Prometheus, Grafana.
+The main objective was to gather data about the overheads of different monitoring tools while monitoring a basic microservice. To monitor it with prometheus, we need to keep prometheus.exe and promtool.exe in the same file structure and run prometheus.exe.
 
 **Screenshots of monitoring this microservice**
 
