@@ -7,7 +7,7 @@ The main objective was to gather data about the overheads of different monitorin
 
 **Prometheus**
 
-![prometheus_endpoint](https://github.com/aurko96/Flask-Microservice-for-Monitoring/assets/17502087/4e26209b-f0ec-4d35-b311-1dc9380fbd99)
+![prometheus_endpoint_2](https://github.com/aurko96/Flask-Microservice-for-Monitoring/assets/17502087/2b68d016-4247-4337-83fb-446c9048feb2)
 
 **Grafana**
 
@@ -16,6 +16,10 @@ The main objective was to gather data about the overheads of different monitorin
 **Dynatrace**
 
 ![dynatrace_monitor3](https://github.com/aurko96/Flask-Microservice-for-Monitoring/assets/17502087/6a8dd103-8169-42eb-8d87-b4d4a0bcc5eb)
+
+**Zabbix**
+
+![zabbix_start](https://github.com/aurko96/Flask-Microservice-for-Monitoring/assets/17502087/d1169c5e-e54a-4313-843f-0c05be7d5699)
 
 **Postman HTTP response**
 
